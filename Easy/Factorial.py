@@ -42,7 +42,7 @@ OR
 COUNT 5s?!?!
 COUNT 50s?!?!
 SO ON?
-WHAT ABOUT 25 or 250, you so dumb.
+WHAT ABOUT 25 or 250?
 
 1024 / 5 = 204
 1024 / 50 = 20
